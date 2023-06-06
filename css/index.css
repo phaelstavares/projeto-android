@@ -7,7 +7,7 @@
 @font-face {
     /* Adicionando uma fonte externa. */
     font-family: 'Android';
-    src: url('/pacote-projeto/fontes/idroid.otf') format('opentype');
+    src: url('../pacote-projeto/fontes/idroid.otf') format('opentype');
     /* ./ o ponto antes é para indicar que ele precisa voltar a pasta anterior e abrir a fonte (Se abrir sem os pontos, não é necessário colocar). */
     font-weight: normal;
 }
