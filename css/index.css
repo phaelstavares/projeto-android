@@ -80,6 +80,7 @@ nav {
 }
 
 nav > a {
+    display: inline-block; /* Deixa o link em bloco (não deixa a escrita ficar por cima da outra)*/
     color: var(--cor1);
     padding: 10px; /* Tamanho dos botões. */
     border-radius: 5px; /* Bordas arredondadas nos botões. */
